@@ -1,0 +1,22 @@
+{
+  "name": "readyimage",
+  "version": "0.0.1",
+  "description": "ReadyImage",
+  "main": "readyimage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readyimage"
+  ],
+  "author": "Mike Fuller",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themikefuller/readyimage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themikefuller/readyimage/issues"
+  },
+  "homepage": "https://github.com/themikefuller/readyimage#readme"
+}

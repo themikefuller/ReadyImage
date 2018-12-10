@@ -14,7 +14,7 @@ On the Web via jsdelivr CDN
 <script src="https://cdn.jsdelivr.net/npm/blueimp-load-image/js/load-image.all.min.js">
 
 // readyImage
-<script src="https://cdn.jsdelivr.net/gh/themikefuller/readyimage/readyimage.js">
+<script src="https://cdn.jsdelivr.net/npm/readyimage/readyimage.min.js">
 ```
 
 

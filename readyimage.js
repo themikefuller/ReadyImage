@@ -23,6 +23,10 @@ function readyImage(file,options={}) {
       settings.maxWidth = options.maxWidth;
     }
 
+    if (options.maxHeight) {
+      settings.maxHeight = options.maxHeight;
+    }
+
     if (options.crop) {
       settings.crop = true;
       settings.maxWidth = options.maxWidth || 1024;

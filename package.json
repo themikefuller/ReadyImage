@@ -1,6 +1,6 @@
 {
   "name": "readyimage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ReadyImage",
   "main": "readyimage.js",
   "scripts": {
